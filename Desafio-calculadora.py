@@ -36,3 +36,5 @@ def Calculadora():
             else:
                 result = numero_1 / numero_2
                 print("O result da operação divisão é: ", result)
+
+Calculadora()
