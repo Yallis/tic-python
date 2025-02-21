@@ -166,7 +166,4 @@ def Lista_de_Compras():
             print()
             input("Tecle 'Enter' para continuar.")
 
-
-
-
 Lista_de_Compras()
